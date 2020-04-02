@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>pic16f1779-picdemlab2-cip-voltage-window-detector</name>
+            <name>pic16f1779-picdemlab2-cip-volt-window-detect</name>
             <creation-uuid>59ebdf96-628b-4596-84e5-e1bd7dd45ca6</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
