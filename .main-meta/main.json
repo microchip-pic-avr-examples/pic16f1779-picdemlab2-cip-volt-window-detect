@@ -38,17 +38,13 @@
         },
         "author": "Microchip",
         "subcategories": [
-            ["Peripherals", "CLC"],
-            ["Peripherals", "CMP"],
-            ["Peripherals", "COG"],
-            ["Peripherals", "FVR"],
-            ["Peripherals", "OPAMP"],
-            ["Peripherals", "PRG"],
-            ["Peripherals", "PWM"],
-            ["Peripherals", "TMR2"]
+            [
+			"Peripherals",
+			"OPAMP"
+			]
         ],
         "peripherals": [
-            "CLC", "CMP", "COG", "FVR", "OPAMP", "PRG", "PWM", "TMR2"
+            "OPAMP"
         ],
         "keywords": [
             "Voltage Window Signal Detection"
