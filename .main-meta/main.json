@@ -5,7 +5,7 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.pic16f1779-picdemlab2-cip-volt-window-detect",
         "version": "1.0.1",
-        "displayName": "Voltage Window Signal Detection Using a Single Comparator",
+        "displayName": "Core Independent Voltage Window Signal Detection Using a Single Comparator",
         "projectName": "pic16f1779-picdemlab2-cip-volt-window-detect",
         "shortDescription": "This example presents an alternative method of implementing a voltage window detection (without software core supervision), using a single comparator and the Core Independent Peripherals (CIPs).",
         "ide": {
